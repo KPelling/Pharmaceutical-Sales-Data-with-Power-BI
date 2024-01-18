@@ -7,3 +7,5 @@ Second is the total sales over time.  This shows whether sales are trending upwa
 Third is the total sales by month.  This displays how profitable the company typically is throughout a year.  It is noteworthy that summer months have the lowest sales, but they spike back up to a high in October.  This information will help the company to plan manufacturing dates and maintain sufficient stock according to product seasonality.
 
 Fourth is the total sales by product category.  This reveals which product categories are the most and least profitable.  Considering that N02BE is by far the most profitable category, the company may decide to discontinue some of the lower sellers to cut costs in the face of their financial downturn.
+
+Dataset: https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data?resource=download
